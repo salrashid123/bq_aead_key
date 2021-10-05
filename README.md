@@ -21,6 +21,8 @@ well
 
 thats what you can use this repo for..
 
+>> This is not supported by Google.  _caveat emptor_
+
 ---
 
 ### Importing to Tink
