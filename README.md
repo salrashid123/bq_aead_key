@@ -8,7 +8,9 @@ Works fine but all samples included there describe how to generate an encoded ke
 However, what if you 
 
 `a)` already have a _raw_ `AEAD_AES_GCM_256` that you want to use with BQ
+
   or
+  
 `b)` you've already generated a Key within BQ and want to extract the base `AEAD_AES_GCM_256` from a keyset and want to decrypt it on a sunday like as i'm writing this today.
 
 you're probably wondering how to do that?
@@ -22,6 +24,10 @@ well
 thats what you can use this repo for..
 
 >> This is not supported by Google.  _caveat emptor_
+
+See
+
+[Tink Keyset Key Utility](https://github.com/salrashid123/tink-keyset-util)
 
 ---
 
